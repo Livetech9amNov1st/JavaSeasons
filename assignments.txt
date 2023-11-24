@@ -1,0 +1,9 @@
+Complete the assignments and send to below email id
+riyazsirnotes@gmail.com
+
+Assignment 1 :
+
+use methods concept to
+calculate Simple interest 
+
+hint: simpleInterest = (p*t*r)/100;
