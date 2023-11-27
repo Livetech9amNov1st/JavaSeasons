@@ -7,3 +7,15 @@ use methods concept to
 calculate Simple interest 
 
 hint: simpleInterest = (p*t*r)/100;
+
+Assignmnet 2:
+
+use getter and setters to print date of birth 
+
+acceptance criteria :
+
+setBirthDay(2,Oct,1989)
+
+02-Oct-1989
+
+for string %s 
