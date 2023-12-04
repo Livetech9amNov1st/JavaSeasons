@@ -1,0 +1,24 @@
+package nov29th;
+
+public class Leave extends Marks {
+	
+	int sl,cl;
+	
+	public void setLeaves(int sl,int cl)
+	{
+		this.sl=sl;
+		this.cl=cl;
+	}
+	
+	public void getLeaves()
+	{
+		System.out.println("Total Leaves : "+(sl+cl));
+	}
+	
+	public void getDetails()
+	{
+		System.out.println("Roll no is : "+rollNo);
+		System.out.println("Student Name is : "+sNa);
+	}
+
+}
