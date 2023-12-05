@@ -8,5 +8,10 @@ public class A {
 	{
 		this.x=x;
 	}
+	
+	public void greet()
+	{
+		System.out.println("Hi..Good Morning ...");
+	}
 
 }

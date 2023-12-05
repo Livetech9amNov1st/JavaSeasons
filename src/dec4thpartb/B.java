@@ -15,5 +15,11 @@ public class B extends A{
 		System.out.println("x is : "+this.x);
 	}
 	
+	public void greet()
+	{
+		super.greet();
+		System.out.println("Good Afternoon...");
+	}
+	
 
 }

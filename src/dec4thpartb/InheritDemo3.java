@@ -11,6 +11,8 @@ public class InheritDemo3 {
 		obj.putX(20);
 		
 		obj.displayAll();
+		
+		obj.greet();
 
 	}
 
