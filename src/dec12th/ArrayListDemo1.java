@@ -1,3 +1,4 @@
+
 package dec12th;
 
 import java.util.ArrayList;
@@ -26,6 +27,12 @@ public class ArrayListDemo1 {
 		
 		System.out.println(al.contains(50));
 		
+		//System.out.println(al.get(5));
+		
+		for(int temp:al)
+		{
+			System.out.println(temp);
+		}
 		
 
 	}
